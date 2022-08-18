@@ -69,8 +69,8 @@
 	</div>
 
 	<div class="grid grid-cols-3 gap-5">
-		<div class="bg-red-300 col-span-2 p-10 text-black rounded-xl">协会主要课程...</div>
-		<div class="flex justify-center items-center bg-lime-300 text-black rounded-xl">⬇️</div>
+		<div class="bg-purple-300 col-span-2 p-10 text-black rounded-xl">协会主要课程...</div>
+		<div class="flex justify-center items-center bg-teal-300 text-black rounded-xl">⬇️</div>
 	</div>
 
 	<hr class="my-8" />
