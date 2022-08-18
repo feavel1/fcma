@@ -10,6 +10,7 @@
 		class="mx-5 hover:underline"
 		on:click|preventDefault={() => {
 			dark = !dark;
-		}}>{dark ? '☼' : '☾'}</a
-	>
+		}}
+		>{dark ? '☼' : '☾'}
+	</a>
 </nav>
