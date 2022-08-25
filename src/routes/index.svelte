@@ -1,13 +1,14 @@
 <script>
 	import Wave01 from '$lib/Wave01.svelte';
 	import Circles from '../lib/Circles.svelte';
+	import Classes from '../lib/Classes.svelte';
 	import Lines from '../lib/Lines.svelte';
 	import Wave02 from '../lib/Wave02.svelte';
 </script>
 
 <title>FCMA - Home</title>
 
-<div class="max-w-6xl mx-auto">
+<div class="max-w-xl mx-auto">
 	<div class="min-h-screen">
 		<h1 class="font-bold text-3xl my-5">
 			欢迎你来到<c class="text-cyan-400">F</c>CMA官网
@@ -68,31 +69,9 @@
 		<div class="flex justify-center items-center bg-blue-300 p-10  rounded-b-xl">🎬 📸 🎶 💭</div>
 	</div>
 
-	<div class="grid grid-cols-3 gap-5">
-		<div class="bg-purple-300 col-span-2 p-10 text-black rounded-xl">协会主要课程...</div>
-		<div class="flex justify-center items-center bg-teal-300 text-black rounded-xl">⬇️</div>
-	</div>
+	<div class="">协会主要课程:</div>
 
 	<hr class="my-8" />
 
-	<div class="grid grid-cols-3 gap-3">
-		<div class="flex justify-center items-center my-5 p-5 rounded-xl hover:bg-orange-300">
-			时尚视野摄影
-		</div>
-		<div class="flex justify-center items-center my-5 p-5 rounded-xl hover:bg-teal-300">
-			电影音乐与听觉艺术
-		</div>
-		<div class="flex justify-center items-center my-5 p-5 rounded-xl hover:bg-blue-300">
-			电影文化与实践
-		</div>
-		<div class="flex justify-center items-center my-5 p-5 rounded-xl hover:bg-indigo-300">
-			哲学课
-		</div>
-		<div class="flex justify-center items-center my-5 p-5 rounded-xl hover:bg-yellow-300">
-			故事王
-		</div>
-		<div class="flex justify-center items-center my-5 p-5 rounded-xl hover:bg-green-300">
-			摄影课
-		</div>
-	</div>
+	<Classes />
 </div>
