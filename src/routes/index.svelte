@@ -14,7 +14,11 @@
 			欢迎你来到<c class="text-cyan-400">F</c>CMA官网
 		</h1>
 		<p>
-			可以在我们的原版的 <a href="/" class="text-2xl font-bold hover:underline">notion网站</a> 阅读更多资料(网站还在制作中)
+			可以在我们的原版的 <a
+				href="https://www.notion.so/fcma/c8a36861b7a24d1191b578bf7d18c079"
+				target="_blank"
+				class="text-2xl font-bold hover:underline">notion网站</a
+			> 阅读更多资料
 		</p>
 
 		<div class="flex justify-between py-8">
@@ -39,7 +43,11 @@
 			<div class="p-8">
 				<h1 class="text-3xl font-bold">...</h1>
 				<p>
-					前往 <a href="/" class="text-3xl font-bold hover:underline">作品</a> 阅读更多资料
+					前往 <a
+						href="https://www.notion.so/fcma/c8a36861b7a24d1191b578bf7d18c079"
+						target="_blank"
+						class="text-3xl font-bold hover:underline">作品</a
+					> 阅读更多资料
 				</p>
 			</div>
 		</div>
@@ -48,7 +56,11 @@
 				<h1 class="text-3xl font-bold">///</h1>
 				<p>
 					想理解更多请前往
-					<a href="/" class="text-3xl font-bold hover:underline">notion网站</a>
+					<a
+						href="https://www.notion.so/fcma/c8a36861b7a24d1191b578bf7d18c079"
+						target="_blank"
+						class="text-3xl font-bold hover:underline">notion网站</a
+					>
 					阅读哦
 				</p>
 			</div>
@@ -66,10 +78,10 @@
 			影视与文化传媒协会
 		</div>
 		<Wave02 />
-		<div class="flex justify-center items-center bg-blue-300 p-10  rounded-b-xl">🎬 📸 🎶 💭</div>
+		<div class="flex justify-center items-center bg-blue-300 p-10 rounded-b-xl">🎬 📸 🎶 💭</div>
 	</div>
 
-	<div class="">协会主要课程:</div>
+	<div>协会主要课程:</div>
 
 	<hr class="my-8" />
 
