@@ -3,6 +3,8 @@
 	import Questions from '../lib/Questions.svelte';
 </script>
 
+<title>FCMA - About</title>
+
 <div class="max-w-xl mx-auto">
 	<h1 class="font-bold text-3xl my-5">
 		关于深信影视文化传媒协会<c class="text-cyan-400">F</c>CMA
