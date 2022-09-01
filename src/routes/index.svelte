@@ -9,7 +9,7 @@
 <title>FCMA - Home</title>
 
 <div class="max-w-xl mx-auto">
-	<div class="min-h-screen">
+	<div class="">
 		<h1 class="font-bold text-3xl my-5">
 			欢迎你来到<c class="text-cyan-400">F</c>CMA官网
 		</h1>
@@ -38,37 +38,6 @@
 		</div>
 	</div>
 
-	<div class="flex flex-wrap justify-center text-gray-800 dark:bg-cyan-400 rounded">
-		<div class="w-full md:w-1/2 lg:w-1/3 p-8">
-			<div class="p-8">
-				<h1 class="text-3xl font-bold">...</h1>
-				<p>
-					前往 <a
-						href="https://www.notion.so/fcma/c8a36861b7a24d1191b578bf7d18c079"
-						target="_blank"
-						class="text-3xl font-bold hover:underline">作品</a
-					> 阅读更多资料
-				</p>
-			</div>
-		</div>
-		<div class="w-full md:w-1/2 lg:w-1/3 p-8">
-			<div class="p-8">
-				<h1 class="text-3xl font-bold">///</h1>
-				<p>
-					想理解更多请前往
-					<a
-						href="https://www.notion.so/fcma/c8a36861b7a24d1191b578bf7d18c079"
-						target="_blank"
-						class="text-3xl font-bold hover:underline">notion网站</a
-					>
-					阅读哦
-				</p>
-			</div>
-		</div>
-	</div>
-
-	<hr class="my-8" />
-
 	<div class="my-10">
 		<div class="bg-indigo-300 flex justify-center items-center p-10 rounded-t-xl ">
 			<h1 class="bold text-xl">🎉 欢迎新生加入 🎉</h1>
@@ -81,9 +50,7 @@
 		<div class="flex justify-center items-center bg-blue-300 p-10 rounded-b-xl">🎬 📸 🎶 💭</div>
 	</div>
 
-	<div>协会主要课程:</div>
-
-	<hr class="my-8" />
-
-	<Classes />
+	<div class="flex flex-wrap justify-center">
+		<a href="/about" class="card hover:bg-zinc-300 text-xl">报名社团</a>
+	</div>
 </div>
