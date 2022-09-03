@@ -51,6 +51,6 @@
 	</div>
 
 	<div class="flex flex-wrap justify-center">
-		<a href="/about" class="card hover:bg-zinc-300 text-xl">报名社团</a>
+		<a href="/about" class="card hover:bg-zinc-300 text-xl">报名社团！！！</a>
 	</div>
 </div>
